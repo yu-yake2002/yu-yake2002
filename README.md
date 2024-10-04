@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yu-yake2002, a postgraduate student in the Institute of Computing Science, Chinese Academy of Sciences.
+- 👋 Hi, I’m @yu-yake2002, a postgraduate student in the Institute of Computing Technology, Chinese Academy of Sciences.
 - 👀 I’m interested in Computer Architecture.
 - 🌱 I used to develop simulator in NVIDIA.
 
